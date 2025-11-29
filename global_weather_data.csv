@@ -1,0 +1,21 @@
+City,Continent,Temperature (°C),Humidity (%),Wind Speed (m/s),Weather Description
+Tokyo,Asia,11.78,67,3.6,Broken clouds
+New Delhi,Asia,23.09,31,2.57,Haze
+Jakarta,Asia,29.49,70,2.12,Overcast clouds
+Shanghai,Asia,13.92,47,2.0,Clear sky
+Riyadh,Asia,25.29,17,1.76,Clear sky
+London,Europe,11.13,89,7.72,Broken clouds
+Paris,Europe,10.78,94,5.66,Overcast clouds
+Berlin,Europe,6.78,96,2.06,Overcast clouds
+Rome,Europe,-2.22,72,0.0,Clear sky
+Moscow,Europe,0.36,63,2.88,Broken clouds
+New York,North America,0.52,60,5.14,Clear sky
+Mexico City,North America,7.96,87,3.09,Mist
+Toronto,North America,-3.51,78,15.2,Clear sky
+Buenos Aires,South America,17.93,74,6.69,Broken clouds
+Rio de Janeiro,South America,24.2,88,2.57,Few clouds
+Lima,South America,18.28,87,2.06,Overcast clouds
+Cairo,Africa,25.42,36,2.06,Haze
+Lagos,Africa,31.05,63,2.48,Overcast clouds
+Cape Town,Africa,24.91,54,7.72,Few clouds
+Sydney,Oceania,19.76,72,8.23,Broken clouds
